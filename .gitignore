@@ -1,0 +1,11 @@
+# data and big model files (GitHub rejects files over 100 MB)
+listings.csv
+deployment_assets/
+*.pkl
+
+# python / notebook stuff
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
