@@ -2,7 +2,7 @@
 
 Final project for ITI. We built a regression model that predicts the price of an Airbnb listing in New York City from its details (location, room type, capacity, amenities and reviews).
 
-**Team:** *(add the team members' names here)*
+**With team:** 
 
 ## Project steps
 
